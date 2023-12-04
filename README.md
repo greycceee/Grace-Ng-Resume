@@ -1,3 +1,3 @@
-# Grace's Portfolio
-Hi! This is my portfolio which includes my resume and personal capstone projects.  
+# Grace's Resume
+Hi! This is my online html resume
 Email me at gracengjw@gmail.com for any questions! (:
